@@ -43,6 +43,10 @@ p {
     color: yellow;
 }
 
+.actions button:hover {
+    cursor: pointer;
+}
+
 .score-text {
     width: 200px;
     background-color: bisque;
