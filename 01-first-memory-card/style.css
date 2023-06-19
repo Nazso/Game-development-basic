@@ -15,10 +15,6 @@ h1 {
     margin: 20px auto;
 }
 
-h1:hover {
-    background-color: brown;
-}
-
 p {
     text-align: center;
     font-size: 30px;
